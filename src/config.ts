@@ -1,12 +1,13 @@
 import { BootScene } from './scenes/boot';
 import { MenuScene } from './scenes/menu';
 import { GameScene } from './scenes/game';
+import { MarriageScene } from './scenes/marriage';
 
 export const GameConfig: Phaser.Types.Core.GameConfig = {
   title: 'Kate the Whale',
   type: Phaser.AUTO,
 
-  scene: [BootScene, MenuScene, GameScene],
+  scene: [BootScene, MenuScene, GameScene, MarriageScene],
   input: {
     keyboard: true
   },
@@ -14,7 +15,7 @@ export const GameConfig: Phaser.Types.Core.GameConfig = {
     default: 'arcade',
     arcade: {
       gravity: { y: 300 },
-      debug: true,
+      // debug: true,
     }
   },
 

@@ -8,6 +8,10 @@ export class Score extends Phaser.GameObjects.BitmapText {
     this.scene.add.existing(this);
   }
 
+  public getScore(): number {
+    return this.score;
+  }
+
   public plusOne() {
     this.score += 1;
     this.setText(`${this.score}`);

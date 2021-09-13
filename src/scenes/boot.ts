@@ -9,6 +9,10 @@ export class BootScene extends Phaser.Scene {
     this.scene.start('MenuScene');
   }
 
+  create(): void {
+
+  }
+
   preload(): void {
     this.load.pack('preload', '../../assets/pack.json', 'preload');
   }

@@ -36,6 +36,7 @@ export class MenuScene extends Phaser.Scene {
 
   update(): void {
     if (this.startKey.isDown) {
+      // this.scale.startFullscreen();
       this.scene.start('GameScene');
     }
   }

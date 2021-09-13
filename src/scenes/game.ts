@@ -12,6 +12,8 @@ export class GameScene extends Phaser.Scene {
   private rolltons: Phaser.GameObjects.Group;
   private cats: Phaser.GameObjects.Group;
   
+  private WIN_SCORE = 1;
+
   private timer: Phaser.Time.TimerEvent;
   private catsTimer: Phaser.Time.TimerEvent;
 
@@ -81,7 +83,6 @@ export class GameScene extends Phaser.Scene {
       this.whale,
       this.cats,
       function() {
-        console.log('cat');
         this.scene.start('MenuScene');
       },
       null,
@@ -99,6 +100,10 @@ export class GameScene extends Phaser.Scene {
       null,
       this
     );
+
+    if (this.score.getScore() >= this.WIN_SCORE) {
+      this.scene.start('MarriageScene');
+    }
   }
 
   private addRolltons(): void {
