@@ -2,6 +2,7 @@ export class Whale extends Phaser.GameObjects.Sprite {
   public body: Phaser.Physics.Arcade.Body;
 
   private jumpKey: Phaser.Input.Keyboard.Key;
+  private jumpPointer: Phaser.Input.Pointer;
   private isDead: boolean;
 
   private GROW_FACTOR = 1.02;
@@ -41,6 +42,7 @@ export class Whale extends Phaser.GameObjects.Sprite {
       repeat: -1
     });
 
+    this.jumpPointer = this.scene.input.activePointer;
     this.jumpKey = this.scene.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
 
     this.scene.add.existing(this);
@@ -52,7 +54,7 @@ export class Whale extends Phaser.GameObjects.Sprite {
     const angle = this.body.velocity.y / (this.MAX_SPEED * 2);
     this.angle = angle * 25;
 
-    if (this.jumpKey.isDown) {
+    if (this.jumpKey.isDown || this.jumpPointer.isDown) {
       this.body.acceleration.y += -this.ACCELERATION;
     } else if (this.y >= 600) {
       this.body.acceleration.y += -this.ACCELERATION;
