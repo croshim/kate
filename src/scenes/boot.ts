@@ -14,6 +14,6 @@ export class BootScene extends Phaser.Scene {
   }
 
   preload(): void {
-    this.load.pack('preload', '../../assets/pack.json', 'preload');
+    this.load.pack('preload', 'assets/pack.json', 'preload');
   }
 }
