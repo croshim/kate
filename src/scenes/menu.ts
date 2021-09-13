@@ -2,7 +2,6 @@ export class MenuScene extends Phaser.Scene {
   private startKey: Phaser.Input.Keyboard.Key;
   private titleBitmapText: Phaser.GameObjects.BitmapText;
   private playBitmapText: Phaser.GameObjects.BitmapText;
-  private pointer: Phaser.Input.Pointer;
 
   constructor() {
     super({
@@ -11,7 +10,6 @@ export class MenuScene extends Phaser.Scene {
   }
 
   init(): void {
-    this.pointer = this.input.activePointer;
     this.startKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.S);
     this.startKey.isDown = false;
   }
@@ -37,7 +35,7 @@ export class MenuScene extends Phaser.Scene {
   }
 
   update(): void {
-    if (this.startKey.isDown || this.pointer.isDown) {
+    if (this.startKey.isDown || this.input.activePointer.isDown) {
       // this.scale.startFullscreen();
       this.scene.start('GameScene');
     }
