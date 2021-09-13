@@ -9,7 +9,8 @@ export const GameConfig: Phaser.Types.Core.GameConfig = {
 
   scene: [BootScene, MenuScene, GameScene, MarriageScene],
   input: {
-    keyboard: true
+    touch: true,
+    keyboard: true,
   },
   physics: {
     default: 'arcade',
