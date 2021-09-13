@@ -12,7 +12,7 @@ export class GameScene extends Phaser.Scene {
   private rolltons: Phaser.GameObjects.Group;
   private cats: Phaser.GameObjects.Group;
   
-  private WIN_SCORE = 1;
+  private WIN_SCORE = 7;
 
   private timer: Phaser.Time.TimerEvent;
   private catsTimer: Phaser.Time.TimerEvent;
