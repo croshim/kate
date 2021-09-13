@@ -15,11 +15,11 @@ module.exports = {
         include: path.resolve(__dirname, 'src'),
         loader: 'ts-loader'
       },
-      {
-        test: require.resolve('Phaser'),
-        loader: 'expose-loader',
-        options: { exposes: { globalName: 'Phaser', override: true } }
-      }
+      // {
+      //   test: require.resolve('Phaser'),
+      //   loader: 'expose-loader',
+      //   options: { exposes: { globalName: 'Phaser', override: true } }
+      // }
     ]
   },
   devServer: {
