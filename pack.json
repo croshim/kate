@@ -4,68 +4,68 @@
       {
         "type": "bitmapFont",
         "key": "font",
-        "textureURL": "./assets/font/font.png",
-        "fontDataURL": "./assets/font/font.fnt"
+        "textureURL": "assets/font/font.png",
+        "fontDataURL": "assets/font/font.fnt"
       },
       {
         "type": "image",
         "key": "background",
-        "url": "./assets/images/bg.png"
+        "url": "assets/images/bg.png"
       },
       {
         "type": "image",
         "key": "rollton",
-        "url": "./assets/images/rollton.png"
+        "url": "assets/images/rollton.png"
       },
       {
         "type": "image",
         "key": "cat_1",
-        "url": "./assets/images/cats/1.png"
+        "url": "assets/images/cats/1.png"
       },
       {
         "type": "image",
         "key": "cat_2",
-        "url": "./assets/images/cats/2.png"
+        "url": "assets/images/cats/2.png"
       },
       {
         "type": "image",
         "key": "background_1",
-        "url": "./assets/images/background/1.png"
+        "url": "assets/images/background/1.png"
       },
       {
         "type": "image",
         "key": "background_2",
-        "url": "./assets/images/background/2.png"
+        "url": "assets/images/background/2.png"
       },
       {
         "type": "image",
         "key": "background_3",
-        "url": "./assets/images/background/3.png"
+        "url": "assets/images/background/3.png"
       },
       {
         "type": "image",
         "key": "background_4",
-        "url": "./assets/images/background/4.png"
+        "url": "assets/images/background/4.png"
       },
       {
         "type": "image",
         "key": "background_5",
-        "url": "./assets/images/background/5.png"
+        "url": "assets/images/background/5.png"
       },
       {
         "type": "image",
         "key": "background_6",
-        "url": "./assets/images/background/6.png"
+        "url": "assets/images/background/6.png"
       },
       {
         "type": "image",
         "key": "background_7",
-        "url": "./assets/images/background/7.png"
+        "url": "assets/images/background/7.png"
       },
       {
         "type": "image",
         "key": "background_8",
-        "url": "./assets/images/background/8.png"
+        "url": "assets/images/background/8.png"
       },
       {
         "type": "atlas",
