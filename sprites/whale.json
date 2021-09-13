@@ -1,0 +1,420 @@
+{"frames": [
+
+{
+	"filename": "Whale-Swim00.png",
+	"frame": {"x":2,"y":2,"w":228,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":35,"w":228,"h":87},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim01.png",
+	"frame": {"x":232,"y":2,"w":228,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":35,"w":228,"h":87},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim02.png",
+	"frame": {"x":462,"y":2,"w":228,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":35,"w":228,"h":87},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim03.png",
+	"frame": {"x":692,"y":2,"w":228,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":34,"w":228,"h":88},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim04.png",
+	"frame": {"x":2,"y":92,"w":228,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":34,"w":228,"h":88},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim05.png",
+	"frame": {"x":232,"y":92,"w":228,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":34,"w":228,"h":87},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim06.png",
+	"frame": {"x":462,"y":92,"w":228,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":34,"w":228,"h":86},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim07.png",
+	"frame": {"x":692,"y":92,"w":228,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":34,"w":228,"h":85},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim08.png",
+	"frame": {"x":2,"y":182,"w":229,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":34,"w":229,"h":83},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim09.png",
+	"frame": {"x":233,"y":182,"w":229,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":34,"w":229,"h":81},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim10.png",
+	"frame": {"x":464,"y":182,"w":230,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":34,"w":230,"h":77},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim11.png",
+	"frame": {"x":696,"y":182,"w":231,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":34,"w":231,"h":72},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim12.png",
+	"frame": {"x":2,"y":267,"w":231,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":33,"w":231,"h":66},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim13.png",
+	"frame": {"x":235,"y":267,"w":236,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":33,"w":236,"h":57},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim14.png",
+	"frame": {"x":473,"y":267,"w":241,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":33,"w":241,"h":53},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim15.png",
+	"frame": {"x":716,"y":267,"w":245,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":32,"w":245,"h":52},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim16.png",
+	"frame": {"x":2,"y":335,"w":248,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":26,"w":248,"h":58},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim17.png",
+	"frame": {"x":252,"y":335,"w":249,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":21,"w":249,"h":62},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim18.png",
+	"frame": {"x":503,"y":335,"w":248,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":18,"w":248,"h":65},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim19.png",
+	"frame": {"x":753,"y":335,"w":247,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":16,"w":247,"h":67},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim20.png",
+	"frame": {"x":2,"y":404,"w":245,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":15,"w":245,"h":67},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim21.png",
+	"frame": {"x":249,"y":404,"w":244,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":14,"w":244,"h":68},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim22.png",
+	"frame": {"x":495,"y":404,"w":243,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":14,"w":243,"h":68},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim23.png",
+	"frame": {"x":740,"y":404,"w":242,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":14,"w":242,"h":68},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim24.png",
+	"frame": {"x":2,"y":474,"w":241,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":15,"w":241,"h":67},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim25.png",
+	"frame": {"x":245,"y":474,"w":241,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":15,"w":241,"h":68},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim26.png",
+	"frame": {"x":488,"y":474,"w":241,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":15,"w":241,"h":68},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim27.png",
+	"frame": {"x":731,"y":474,"w":241,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":15,"w":241,"h":68},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim28.png",
+	"frame": {"x":2,"y":544,"w":241,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":16,"w":241,"h":67},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim29.png",
+	"frame": {"x":245,"y":544,"w":241,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":17,"w":241,"h":66},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim30.png",
+	"frame": {"x":488,"y":544,"w":242,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":17,"w":242,"h":67},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim31.png",
+	"frame": {"x":732,"y":544,"w":243,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":18,"w":243,"h":66},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim32.png",
+	"frame": {"x":2,"y":613,"w":243,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":19,"w":243,"h":66},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim33.png",
+	"frame": {"x":247,"y":613,"w":244,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":21,"w":244,"h":65},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim34.png",
+	"frame": {"x":493,"y":613,"w":245,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":23,"w":245,"h":64},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim35.png",
+	"frame": {"x":740,"y":613,"w":246,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":26,"w":246,"h":63},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim36.png",
+	"frame": {"x":2,"y":681,"w":247,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":29,"w":247,"h":61},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim37.png",
+	"frame": {"x":251,"y":681,"w":247,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":32,"w":247,"h":59},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim38.png",
+	"frame": {"x":500,"y":681,"w":247,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":34,"w":247,"h":58},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim39.png",
+	"frame": {"x":749,"y":681,"w":247,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":34,"w":247,"h":59},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim40.png",
+	"frame": {"x":2,"y":744,"w":245,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":34,"w":245,"h":59},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim41.png",
+	"frame": {"x":249,"y":744,"w":242,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":35,"w":242,"h":59},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim42.png",
+	"frame": {"x":493,"y":744,"w":238,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":35,"w":238,"h":63},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim43.png",
+	"frame": {"x":733,"y":744,"w":234,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":35,"w":234,"h":69},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim44.png",
+	"frame": {"x":2,"y":815,"w":231,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":35,"w":231,"h":74},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim45.png",
+	"frame": {"x":235,"y":815,"w":229,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":35,"w":229,"h":78},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim46.png",
+	"frame": {"x":466,"y":815,"w":229,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":35,"w":229,"h":81},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim47.png",
+	"frame": {"x":697,"y":815,"w":229,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":35,"w":229,"h":83},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim48.png",
+	"frame": {"x":2,"y":900,"w":229,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":35,"w":229,"h":84},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim49.png",
+	"frame": {"x":233,"y":900,"w":229,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":35,"w":229,"h":85},
+	"sourceSize": {"w":256,"h":128}
+},
+{
+	"filename": "Whale-Swim50.png",
+	"frame": {"x":464,"y":900,"w":229,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":35,"w":229,"h":86},
+	"sourceSize": {"w":256,"h":128}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "whale.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5bf69b6f1f176f2c450e1543186c4bfa:08ec04d6e495627faccd858ce5dd3e1c:e4855b63fc44ac89034aef029b5d1ff6$"
+}
+}
