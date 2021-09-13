@@ -1,5 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
   entry: './src/game.ts',
@@ -7,13 +8,27 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     filename: 'bundle.js'
   },
-  plugins: [new HtmlWebpackPlugin()],
+  plugins: [
+    new HtmlWebpackPlugin(),
+    new CopyWebpackPlugin({
+      patterns: [
+        {
+          from: './assets',
+          to: path.resolve(__dirname, 'dist'),
+        },
+      ],
+    }),
+  ],
   module: {
     rules: [
       {
         test: /\.ts$/,
         include: path.resolve(__dirname, 'src'),
         loader: 'ts-loader'
+      },
+      {
+        test: /\.(png|svg|jpg|jpeg|gif)$/i,
+        use: ['file-loader']
       },
       // {
       //   test: require.resolve('Phaser'),
